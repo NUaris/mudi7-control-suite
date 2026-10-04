@@ -1,0 +1,11 @@
+{
+  "name": "mudi7-control-suite",
+  "private": true,
+  "version": "0.1.0-experimental",
+  "description": "Development tests and synthetic documentation screenshots",
+  "scripts": {
+    "test": "node openclash-view-test.cjs && node radio-view-test.cjs",
+    "screenshots:web": "node tools/render-web.cjs"
+  },
+  "devDependencies": { "playwright-core": "1.62.1" }
+}

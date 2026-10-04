@@ -1,0 +1,10 @@
+{
+  "index": 81,
+  "view": "openclash",
+  "level": 2,
+  "title": "OpenClash",
+  "parent": "applications",
+  "parent_icon": "application",
+  "parent_index": 55,
+  "show_mode": ["router"]
+}

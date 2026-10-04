@@ -1,0 +1,10 @@
+{
+  "index": 82,
+  "view": "radio-scan",
+  "level": 2,
+  "title": "无线信号扫描",
+  "parent": "applications",
+  "parent_icon": "application",
+  "parent_index": 55,
+  "show_mode": ["router"]
+}

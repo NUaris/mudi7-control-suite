@@ -1,0 +1,15 @@
+* text=auto
+*.sh text eol=lf
+*.lua text eol=lf
+*.py text eol=lf
+*.rb text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.conf text eol=lf
+*.paths text eol=lf
+*.js text eol=lf
+*.cjs text eol=lf
+citydash text eol=lf
+homebutton text eol=lf
+*.init text eol=lf
+*.png binary

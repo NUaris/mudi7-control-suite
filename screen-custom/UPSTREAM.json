@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/robavionix/gl-e5800-dashboard",
+  "revision": "e01ee320eb42db46b75468fc854a21a740bac75e",
+  "license": "MIT",
+  "upstream_copyright": "Copyright (c) 2026 robavionix",
+  "reused": ["dashboard.py framebuffer/touch/battery drivers", "button_watch.py", "screen_sleep.sh"],
+  "custom": ["mudi_ui.py", "backend.py", "main.py", "repeater-connect.lua", "citydash", "run.sh", "toggle.sh"],
+  "vendor_assets": "GL.iNet font and wallpaper loaded from existing firmware, not covered by the upstream MIT license"
+}

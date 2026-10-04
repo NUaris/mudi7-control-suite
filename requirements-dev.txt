@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+Pillow>=10,<13
+paramiko>=3,<5
+bcrypt>=4,<6
+lupa>=2,<3
